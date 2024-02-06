@@ -1,0 +1,14 @@
+App(
+    appid="year_progress",
+    name="Year Progress",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="year_progress_app",
+    stack_size=2 * 1024,
+    fap_category="Tools",
+    fap_version="1.0",
+    fap_icon="year_progress.png",
+    fap_description="Display A progress bar and percent for now in this year",
+    fap_author="SocialSisterYi",
+    fap_weburl="https://github.com/SocialSisterYi/flipperzero-YearProgress",
+    fap_icon_assets="images",
+)
