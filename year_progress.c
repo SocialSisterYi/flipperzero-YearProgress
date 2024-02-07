@@ -4,7 +4,6 @@
 #include <gui/gui.h>
 #include <gui/elements.h>
 
-#include <assets_icons.h>
 #include <year_progress_icons.h>
 
 #define TAG "YearProgress"
